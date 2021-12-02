@@ -5,7 +5,7 @@ It's an augmentation to a game very similar to mario allowing movement, interact
 Despite this being an extension, every line of code has been added by me based on my understanding.
 
 The augmentation is inspired from the [meme](https://www.youtube.com/watch?v=Wl959QnD3lM) WIDE PUTIN.
-When the user-controlled character captures the flag and completes the objective, they becomes W I D E and the track of the meme starts playing in the background. 
+When the user-controlled character captures the flag and completes the objective, they becomes W I D E and the track of the meme starts playing in the background. This also offers them a functional advantage because being W I D E makes you less likely to fall into holes in the ground.
 
 Further augmentations and improvement include:
 * Addition of levels and checkpoints
